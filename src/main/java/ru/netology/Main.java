@@ -1,9 +1,7 @@
 package ru.netology;
 
-import java.util.Arrays;
 import java.util.Random;
 import java.util.concurrent.atomic.AtomicInteger;
-import java.util.function.Consumer;
 import java.util.function.Predicate;
 
 public class Main {
